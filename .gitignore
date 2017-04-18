@@ -1,1 +1,3 @@
 testignore.md
+node_modules
+.variables
